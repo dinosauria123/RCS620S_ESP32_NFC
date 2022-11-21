@@ -1,4 +1,5 @@
-# Sony FeliCa reader/writer RC-S620S を ESP32 で使うためのサンプルプログラムです。
+# Sony FeliCa reader/writer RC-S620S を ESP32 で使うためのサンプルプログラムです
+# FeliCa, Ntag215などが読み込みできます
 
 TANAKA MasayukiさんのESP32版とmkttabaneさんのNFC拡張を一つにまとめさせていただきました。
 
