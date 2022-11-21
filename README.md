@@ -10,6 +10,6 @@ mtktanabeさん: http://dsas.blog.klab.org/archives/2018-04/52291765.html
 
 http://blog.felicalauncher.com/?p=2677 で公開されているArduino用のライブラリを利用させていただきました。
 
-FeliCa公式サイト： http://www.sony.co.jp/Productセンスを継承します。2: s/felica/
+FeliCa公式サイト： http://www.sony.co.jp/Products/felica/
 
-オープンソースとして公開しますが、 Arduino向けRC-S620/S制御ライブラリl
+オープンソースとして公開しますが、 Arduino向けRC-S620/S制御ライブラリのライセンスを継承します。
