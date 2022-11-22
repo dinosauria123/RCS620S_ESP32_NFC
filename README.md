@@ -3,7 +3,7 @@
 
 TANAKA MasayukiさんのESP32版とmkttabaneさんのNFC拡張を一つにまとめさせていただきました。
 
-TANAKA Masayukiさん: https://github.com/tanakamasayuki/RCS620S_ESP32
+TANAKA Masayukiさん: https://lang-ship.com/blog/work/felica-rc-s620s/
 
 mtktanabeさん: http://dsas.blog.klab.org/archives/2018-04/52291765.html
 
