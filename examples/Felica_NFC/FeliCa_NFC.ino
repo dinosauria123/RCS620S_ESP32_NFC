@@ -7,6 +7,7 @@ RCS620S rcs620s(Serial1);
 #define POLLING_INTERVAL 500
 
 void setup() {
+  pinMode(LED_PIN, OUTPUT);
   Serial.begin(115200);
   Serial1.begin(115200, SERIAL_8N1, 32, 33);
   delay(1000);
